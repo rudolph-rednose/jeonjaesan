@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">전재산 로고</title>
+  <desc id="desc">다양한 자산이 하나의 중심 가치로 모이는 모습을 표현한 심벌</desc>
+  <rect width="64" height="64" rx="15" fill="#151719"/>
+  <circle cx="32" cy="32" r="20" fill="none" stroke="#FFFFFF" stroke-width="7"
+    stroke-dasharray="22 104" stroke-linecap="round" transform="rotate(-84 32 32)"/>
+  <circle cx="32" cy="32" r="20" fill="none" stroke="#E14644" stroke-width="7"
+    stroke-dasharray="28 98" stroke-linecap="round" transform="rotate(-12 32 32)"/>
+  <circle cx="32" cy="32" r="20" fill="none" stroke="#F0BC33" stroke-width="7"
+    stroke-dasharray="18 108" stroke-linecap="round" transform="rotate(76 32 32)"/>
+  <circle cx="32" cy="32" r="20" fill="none" stroke="#1E63D6" stroke-width="7"
+    stroke-dasharray="25 101" stroke-linecap="round" transform="rotate(130 32 32)"/>
+  <circle cx="32" cy="32" r="8.5" fill="#FFFFFF"/>
+  <path d="M28 33.5 31 36.5 37 28.8" fill="none" stroke="#151719" stroke-width="2.8"
+    stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
