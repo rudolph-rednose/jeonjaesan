@@ -1,0 +1,44 @@
+{
+  "id": "/",
+  "name": "JEONJAESAN - 전재산",
+  "short_name": "전재산",
+  "description": "가진 모든 것을 한 눈에 관리하는 개인 자산 원장",
+  "lang": "ko-KR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ],
+  "background_color": "#f5f7fa",
+  "theme_color": "#151719",
+  "orientation": "portrait-primary",
+  "categories": [
+    "finance",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "자산 등록",
+      "short_name": "등록",
+      "url": "/#quick-add-title",
+      "icons": [
+        {
+          "src": "/logo.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}
